@@ -4,7 +4,7 @@ I'm experimenting with RenPy.
 
 # Vendor Assets
 
-Some placeholder assets have been included, their respective licenses are under [Licenses](Licenses\).
+Some placeholder assets have been included, their respective licenses are under [Licenses](Licenses/).
 
 # License
 
