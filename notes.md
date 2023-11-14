@@ -57,6 +57,8 @@ Boy "Ow."
 
 He drags himself to his feet, now with a small streaks of jam across his shirt.
 
+[set] stained shirt = true
+
 Boy "Well, today couldn't get much worse." He says aloud, while internally he makes a wish that it doesn't.
 
 The boy brushes himself off as best he can, and sets off down the street at a brisk pace.
@@ -176,4 +178,68 @@ Not for the first time, you wonder if there's been some powerful entity tamperin
 [jump] Gym Class
 
 # Gym Class
+
+Gym class?
+
+You find the idea of human bodies mildly interesting - the humans must care for their physical bodies, otherwise those bodies become less capable as they age.
+
+It seems almost like too much trouble, but humans and their bodies are capable of adapting to most situations over time.
+
+Still, it seems that at least some of the students enjoy the process.
+
+Satoshi is not one of those.
+
+You can feel his exhaustion as he crosses the finish line, while being cheered on by a pair of his classmates.
+
+Jiro "Nice! You're getting better, I think this is close to your personal best." the shortest of the three commments.
+
+The other boy, Hiro, passes Satoshi a bottle of water while he breathes deep to slows his heart rate.
+
+Hiro "..." you can feel sympathy coming from Hiro, even if he doesn't vocalise it. Interestingly, both Jiro and Satoshi seem to feel it too.
+
+As the trio sit on a set of badly held together benches, their eyes - and their minds - wander towards the group of girls preforming some kind of jumping task at the other end of the field.
+
+Actually, you notice quite a few members of the boys running group are watching the girls.
+
+Aiko is next up for her high jump.
+
+She runs towards the high jump bar at a slight angle, manages to launch herself over the bar at just the right time, and lands face-up on the soft mat behind the bar.
+
+The high jump bar's supports wobble ever so slightly, but it remains in place.
+
+Teacher "Very good! Looks like we've got an athlete here!"
+
+Aiko gracefully stands, bows her head with a kind of practiced humility, while her mind gives off a very distinct sense of dread.
+
+It seems Aiko does not enjoy the process of adaptation either.
+
+*creak* *BANG*
+
+The sound of benches collapsing under the boys rings out across the field, catching the attention of just about every student and the teacher.
+
+The teacher moves at an almost-run towards the trio, followed by about a half-dozen of the girls - including Aiko.
+
+Teacher "Boys, are you ok?" You feel a weird mix of dazedness, blunt pain and one very distinct sharpness coming from the three.
+
+Jiro "Sorry Teach. Ow, we'll be more careful in future." He touched the back of his head, which took most of the impact.
+
+The teacher's mind goes from concern to relief, back to concern when they get close enough to spot a large cut along Satoshi's leg.
+
+Satoshi, to his credit, was managing to hold back a loud cry while not moving from his landing spot.
+
+Teacher "Ok, I want the three of you to report to the nurse's office. Have her patch Satoshi up, and check you two for concussions as well."
+
+The teacher's mind returns to a mix of mild relief that it wasn't worse, and a brief thought of the considerable amount of pointless paperwork this incident will generate.
+
+Hiro gently frees Satoshi from the mess of wood, as he climbs to his feet. Jiro, now with a rhythmic throb of pain in his thoughts, acts as Satoshi's leaning post.
+
+Teacher "Aiko, your jumping routines are finished, go with them in case they need a hand."
+
+Aiko "Yes sir!"
+
+[jump] Nurse's Office
+
+# Nurse's Office
+
+You decide to follow the group.
 
