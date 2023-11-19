@@ -199,7 +199,7 @@ Hiro "..." you can feel sympathy coming from Hiro, even if he doesn't vocalise i
 
 As the trio sit on a set of badly held together benches, their eyes - and their minds - wander towards the group of girls preforming some kind of jumping task at the other end of the field.
 
-Actually, you notice quite a few members of the boys running group are watching the girls.
+Actually, you notice quite a few members of the boys' running group are watching the girls.
 
 Aiko is next up for her high jump.
 
@@ -215,7 +215,7 @@ It seems Aiko does not enjoy the process of adaptation either.
 
 *creak* *BANG*
 
-The sound of benches collapsing under the boys rings out across the field, catching the attention of just about every student and the teacher.
+The sound of benches collapsing under the boys rings out across the field, catching the attention of just about every student, and the teacher.
 
 The teacher moves at an almost-run towards the trio, followed by about a half-dozen of the girls - including Aiko.
 
@@ -237,9 +237,55 @@ Teacher "Aiko, your jumping routines are finished, go with them in case they nee
 
 Aiko "Yes sir!"
 
+You decide to follow the group.
+
 [jump] Nurse's Office
 
 # Nurse's Office
 
-You decide to follow the group.
+Aiko knocks on the door as the makeshift emergency medical transport team finally reach the nurse's office.
+
+The nurse looks up from his paperwork and puts on an outwardly friendly demeanour. Internally, he is thankful for the interruption.
+
+Nurse "Now then, what's happened?" His eyes shoot directly to the thin trail of blood running down Satoshi's leg.
+
+On instinct, before anyone has a chance to respond, he's beside Satoshi with a seat, and a bandage.
+
+Aiko "A wooden bench broke during gym class, and..." Aiko takes a moment to remember the name "Satoshi was injured."
+
+Hiro nudged Jiro, with a kind of silent urging.
+
+Jiro "Yeah, and I kind of hit the ground hard too. Actually my head is still throbbing." Hiro nodded in acsent.
+
+Satoshi was now fully bandaged and no longer bleeding.
+
+The nurse then ushered the other two boys to the back of the office, out of sight, to continue his inspection of their injuries.
+
+Aiko, hiding her sense of accomplishment at delivering her charges, suddenly felt quite awkward.
+
+Satoshi broke the silence with a caugh.
+
+Satoshi "Thanks Aiko."
+
+Aiko responded with a practiced headbow, and a mumble.
+
+Satoshi "No, really. Um..." Satoshi's mind suddenly conjured images of small winged insects called butterflies in his stomach; an image you can't quite interpret the meaning of.
+
+Satoshi "Let me, let me thank you properly."
+
+Aiko, in return, suddenly experienced a flurry of images that flitted by too fast for you to understand. What is happening here?
+
+Satoshi "Can I take you out to - " the words caught in his throat for a moment. He tries to force them out.
+
+Satoshi "Can. I. Take. You. Out. To. The. Cafe. On. Saturday?" The words feel like cinderblocks to Satoshi, but he managed to get them out.
+
+Aiko, to her credit, resisted the urge to run straight out of the door in embarassment.
+
+Aiko "Ok." A simple answer to a simple question.
+
+And there it is, you see their threads of fate not just cross this time, but tie around each other.
+
+[jump] It's A Date
+
+# It's A Date
 
